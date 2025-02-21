@@ -31,8 +31,9 @@ This repository contains code and data used to predict match outcomes for the NC
 ## References & Acknowledgements
 - **Kaggle Competition**: [March Machine Learning Mania 2025](https://www.kaggle.com/c/march-machine-learning-mania-2025)
 
-## Authors
-@wickkan
+## Collaborators
+- [wickkan](https://github.com/wickkan)
+- [stephendwalley](https://github.com/stephendwalley)
 
 ## License
 This project is licensed under the MIT License
