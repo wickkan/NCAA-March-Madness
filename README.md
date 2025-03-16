@@ -1,4 +1,4 @@
-# March Machine Learning Mania 2025
+# Predicting NCAA March Madness Matches
 
 ## Overview
 This repository contains code and data used to predict match outcomes for the NCAA March Madness 2025 men's and women's basketball tournaments. The project leverages advanced machine learning techniques and historical data to generate highly accurate predictions, optimised to minimise the Brier Score, the competition's official evaluation metric.
